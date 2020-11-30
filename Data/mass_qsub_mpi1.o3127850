@@ -1,0 +1,113 @@
+--------------------------------------------------------------------------
+[[52662,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf86
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Thread 6 out of 8 from process 0 out of 1 on elf86
+Thread 0 out of 8 from process 0 out of 1 on elf86
+Thread 1 out of 8 from process 0 out of 1 on elf86
+Thread 7 out of 8 from process 0 out of 1 on elf86
+Thread 5 out of 8 from process 0 out of 1 on elf86
+Thread 2 out of 8 from process 0 out of 1 on elf86
+Thread 3 out of 8 from process 0 out of 1 on elf86
+Thread 4 out of 8 from process 0 out of 1 on elf86
+Part1-MPI-1/OpenMP-8:99999,1.000000,2.000000,1.000000,2.000000,0.001221558835,400.460971,10504
+------------
+--------------------------------------------------------------------------
+[[49682,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf86
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Thread 0 out of 1 from process 0 out of 1 on elf86
+Part1-MPI-1/OpenMP-1:99999,1.000000,2.000000,1.000000,2.000000,0.001221796874,3008.092555,10404
+------------
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[42432,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf86
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Thread 0 out of 8 from process 0 out of 1 on elf86
+Thread 7 out of 8 from process 0 out of 1 on elf86
+Thread 1 out of 8 from process 0 out of 1 on elf86
+Thread 2 out of 8 from process 0 out of 1 on elf86
+Thread 3 out of 8 from process 0 out of 1 on elf86
+Thread 4 out of 8 from process 0 out of 1 on elf86
+Thread 5 out of 8 from process 0 out of 1 on elf86
+Thread 6 out of 8 from process 0 out of 1 on elf86
+Part1-MPI-1/OpenMP-8:199999,1.000000,3.000000,1.000000,3.000000,0.227751357177,1517.590431,10460
+------------
+--------------------------------------------------------------------------
+[[38257,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf86
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Thread 0 out of 1 from process 0 out of 1 on elf86
+Part1-MPI-1/OpenMP-1:199999,1.000000,3.000000,1.000000,3.000000,0.227756698457,12101.667235,10404
+------------
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[39404,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf86
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Thread 0 out of 8 from process 0 out of 1 on elf86
+Thread 7 out of 8 from process 0 out of 1 on elf86
+Thread 6 out of 8 from process 0 out of 1 on elf86
+Thread 1 out of 8 from process 0 out of 1 on elf86
+Thread 2 out of 8 from process 0 out of 1 on elf86
+Thread 3 out of 8 from process 0 out of 1 on elf86
+Thread 4 out of 8 from process 0 out of 1 on elf86
+Thread 5 out of 8 from process 0 out of 1 on elf86
+Part1-MPI-1/OpenMP-8:300000,1.000000,4.000000,1.000000,4.000000,0.230830759579,3477.763654,10628
+------------
+--------------------------------------------------------------------------
+[[64336,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf86
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Thread 0 out of 1 from process 0 out of 1 on elf86
+
+
+EXtra:
+Part1-MPI-1/OpenMP-1:300000,1.000000,2.000000,1.000000,2.000000,0.001221796874,28000,10404
+Part1-MPI-1/OpenMP-2:300000,1.000000,2.000000,1.000000,2.000000,0.001221796874,20000,10404
+

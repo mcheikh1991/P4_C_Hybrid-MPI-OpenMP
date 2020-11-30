@@ -1,0 +1,280 @@
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+[elf93:16420] 5 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:16420] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[elf93:16655] 2 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:16655] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+[elf93:17089] 5 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:17089] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[elf93:17169] 2 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:17169] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+[elf93:17812] 5 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:17812] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+[elf93:17893] 2 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:17893] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+[elf93:18742] 5 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:18742] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+[elf93:18943] 2 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:18943] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+[elf93:19703] 5 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:19703] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+[elf93:19774] 2 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:19774] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+[elf93:22329] 5 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:22329] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+[elf93:22799] 2 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:22799] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+[elf93:24392] 5 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:24392] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+7: error exit from mca_btl_openib_proc_create
+[elf93:24647] 2 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[elf93:24647] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create
+2: error exit from mca_btl_openib_proc_create

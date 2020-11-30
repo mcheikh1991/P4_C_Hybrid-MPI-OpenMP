@@ -1,0 +1,532 @@
+--------------------------------------------------------------------------
+[[28855,1],6]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf94
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Part3-MPI-16/OpenMP-1:100000000,288.700306,0.155892,35992
+Done rank 12
+Done rank 10
+Done rank 13
+Done rank 2
+Done rank 9
+Done rank 1
+Done rank 11
+Done rank 5
+Done rank 6
+Done rank 3
+Done rank 15
+Done rank 7
+Done rank 8
+Done rank 14
+--------------------------------------------------------------------------
+[[28695,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Done rank 2
+Done rank 5
+Done rank 6
+Part3-MPI-8/OpenMP-1:100000000,288.732290,0.308934,59320
+Done rank 3
+Done rank 1
+Done rank 7
+--------------------------------------------------------------------------
+[[28565,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf93
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 2
+Part3-MPI-4/OpenMP-1:100000000,288.710780,0.584769,108928
+Done rank 1
+Done rank 3
+--------------------------------------------------------------------------
+[[28437,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-2/OpenMP-1:100000000,288.683771,1.198488,206792
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[28329,1],13]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf91
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Done rank 14
+Done rank 8
+Part3-MPI-16/OpenMP-1:200000000,288.684941,0.300883,59148
+Done rank 1
+Done rank 9
+Done rank 11
+Done rank 12
+Done rank 3
+Done rank 2
+Done rank 7
+Done rank 10
+Done rank 5
+Done rank 6
+Done rank 13
+Done rank 15
+--------------------------------------------------------------------------
+[[28171,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf93
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 7
+Done rank 6
+Done rank 5
+Part3-MPI-8/OpenMP-1:200000000,288.681015,0.589360,108464
+Done rank 3
+Done rank 1
+Done rank 2
+Done rank 4
+--------------------------------------------------------------------------
+[[28244,1],2]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf92
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 3
+Done rank 1
+Part3-MPI-4/OpenMP-1:200000000,288.661514,1.162254,206924
+Done rank 2
+--------------------------------------------------------------------------
+[[28141,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-2/OpenMP-1:200000000,288.661810,2.310442,401256
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[27921,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 14
+Done rank 4
+Done rank 9
+Done rank 6
+Done rank 11
+Done rank 15
+Done rank 5
+Done rank 8
+Done rank 2
+Done rank 1
+Part3-MPI-16/OpenMP-1:300000000,288.667080,0.459761,83644
+Done rank 10
+Done rank 3
+Done rank 12
+Done rank 7
+Done rank 13
+--------------------------------------------------------------------------
+[[27693,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Done rank 7
+Done rank 6
+Done rank 5
+Done rank 2
+Done rank 3
+Done rank 1
+Part3-MPI-8/OpenMP-1:300000000,288.680266,0.929313,157020
+--------------------------------------------------------------------------
+[[27724,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf93
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 2
+Done rank 3
+Done rank 1
+Part3-MPI-4/OpenMP-1:300000000,288.685655,1.792523,305320
+--------------------------------------------------------------------------
+[[27619,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-2/OpenMP-1:300000000,288.666598,3.599245,598344
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[27366,1],6]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf94
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Done rank 7
+Done rank 10
+Done rank 13
+Done rank 12
+Done rank 8
+Done rank 11
+Done rank 15
+Done rank 9
+Done rank 6
+Done rank 5
+Done rank 14
+Part3-MPI-16/OpenMP-1:400000000,288.690695,0.623792,108724
+Done rank 2
+Done rank 1
+Done rank 3
+--------------------------------------------------------------------------
+[[27158,1],6]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf94
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Done rank 7
+Done rank 6
+Done rank 5
+Done rank 2
+Part3-MPI-8/OpenMP-1:400000000,288.692675,1.238166,207224
+Done rank 3
+Done rank 1
+--------------------------------------------------------------------------
+[[27046,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf93
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 3
+Done rank 1
+Done rank 2
+Part3-MPI-4/OpenMP-1:400000000,288.671320,2.451351,401672
+--------------------------------------------------------------------------
+[[27124,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-2/OpenMP-1:400000000,288.681938,4.887809,793676
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[26779,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 14
+Done rank 15
+Done rank 7
+Done rank 4
+Done rank 9
+Done rank 10
+Done rank 8
+Done rank 11
+Done rank 12
+Done rank 5
+Done rank 6
+Done rank 13
+Done rank 1
+Part3-MPI-16/OpenMP-1:500000000,288.704743,0.777400,132712
+Done rank 2
+Done rank 3
+--------------------------------------------------------------------------
+[[26751,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 7
+Done rank 4
+Done rank 5
+Done rank 6
+Done rank 1
+Part3-MPI-8/OpenMP-1:500000000,288.681116,1.540328,255816
+Done rank 2
+Done rank 3
+--------------------------------------------------------------------------
+[[26509,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-4/OpenMP-1:500000000,288.690439,3.056792,499092
+Done rank 2
+Done rank 3
+--------------------------------------------------------------------------
+[[26403,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-2/OpenMP-1:500000000,288.668684,6.091964,987608
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[26358,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf93
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Done rank 15
+Done rank 8
+Done rank 14
+Done rank 5
+Done rank 1
+Done rank 6
+Done rank 13
+Done rank 12
+Done rank 11
+Done rank 7
+Done rank 10
+Done rank 9
+Part3-MPI-16/OpenMP-1:600000000,288.669181,0.930178,157644
+Done rank 2
+Done rank 3
+--------------------------------------------------------------------------
+[[26119,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf93
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 7
+Done rank 4
+Done rank 1
+Done rank 6
+Done rank 5
+Done rank 3
+Done rank 2
+Part3-MPI-8/OpenMP-1:600000000,288.680764,1.866836,304580
+--------------------------------------------------------------------------
+[[26027,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-4/OpenMP-1:600000000,288.678729,3.725484,596284
+Done rank 2
+Done rank 3
+--------------------------------------------------------------------------
+[[25933,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-2/OpenMP-1:600000000,288.657396,7.377001,1183052
+-----------DONE-----------
+
+--------------------------------------------------------------------------
+[[25633,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 14
+Done rank 4
+Done rank 15
+Done rank 7
+Done rank 10
+Done rank 8
+Done rank 11
+Done rank 1
+Done rank 6
+Done rank 5
+Done rank 9
+Done rank 12
+Done rank 2
+Done rank 3
+Part3-MPI-16/OpenMP-1:700000000,288.699060,1.082655,182368
+Done rank 13
+--------------------------------------------------------------------------
+[[25715,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 4
+Done rank 7
+Done rank 6
+Done rank 5
+Done rank 1
+Part3-MPI-8/OpenMP-1:700000000,288.691077,2.092409,354024
+Done rank 2
+Done rank 3
+--------------------------------------------------------------------------
+[[25533,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Done rank 2
+Done rank 3
+Part3-MPI-4/OpenMP-1:700000000,288.681085,4.293004,694792
+--------------------------------------------------------------------------
+[[25456,1],1]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: elf96
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Start MPI/OpenMP Process:
+Done rank 1
+Part3-MPI-2/OpenMP-1:700000000,288.661079,8.572540,1378252
+-----------DONE-----------
+
